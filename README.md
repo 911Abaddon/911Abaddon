@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Alexandros]
+# 👋 Hi, I'm Alexandros
 A passionate full-stack developer with experience in Java, Spring Boot, React, .NET Core, and SQL.
 
 ## 🔧 Tech Stack
